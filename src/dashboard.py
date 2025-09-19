@@ -4,7 +4,7 @@ import requests
 import matplotlib.pyplot as plt
 
 # Fetching live data
-url = "https://disease.sh/v3/covid-19/countries"
+url = "https://disease.sh/v3/covid-19/countries
 data = requests.get(url).json()
 df = pd.DataFrame(data)
 
