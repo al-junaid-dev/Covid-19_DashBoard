@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 
-url = "https://disease.sh/v3/covid-19/countries"
+url = "https://disease.sh/v3/covid-19/countries
 response = requests.get(url)
 
 if response.status_code == 200:
