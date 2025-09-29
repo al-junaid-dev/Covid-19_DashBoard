@@ -3,6 +3,7 @@ import pandas as pd
 import requests
 import matplotlib.pyplot as plt
 
+
 # Fetching live data
 url = "https://disease.sh/v3/covid-19/countries
 data = requests.get(url).json()
