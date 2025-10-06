@@ -66,7 +66,10 @@ All COVID-19 statistics are fetched from the [disease.sh API](https://disease.sh
 
 ## 📸 Screenshots  
 
-*(Add screenshots here after running the dashboard)*  
+<img width="1901" height="846" alt="{84C250C6-85D5-4949-8399-FB060C55F56F}" src="https://github.com/user-attachments/assets/c0f0d596-bcee-4969-9712-1e863e1060c3" />
+<img width="1901" height="830" alt="{85FCD44F-8D2F-40B8-87B9-71F90FB57ABB}" src="https://github.com/user-attachments/assets/9c562850-c18a-45c2-b4e8-6777f09f3b29" />
+
+  
 
 ---
 
@@ -82,3 +85,4 @@ All COVID-19 statistics are fetched from the [disease.sh API](https://disease.sh
 
 **Mohd Junaid**  
 📌 Engineering Student | Python & Data Science Enthusiast  
+
