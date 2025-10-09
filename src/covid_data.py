@@ -29,5 +29,6 @@ def fetch_covid_data():
     df['recovery_rate'] = ((df['recovered'] / df['cases']) * 100).round(2)
     df['fatality_rate'] = ((df['deaths'] / df['cases']) * 100).round(2)
     
+
     df = df.fillna(0)
     return df[cols + ['cases_per_million','deaths_per_million','recovery_rate','fatality_rate']]
