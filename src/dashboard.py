@@ -8,8 +8,7 @@ st.title("🦠 COVID-19 Real-Time Dashboard")
 st.markdown("Built with Python, Pandas, Plotly & Streamlit — © 2025 Mohd Junaid")
 
 # Fetch data
-df = fetch_covid_data()
-
+df = fetch_covid_data()
 # Sidebar filters
 if "continent" in df.columns:
     continent_list = ["All"] + sorted(df["continent"].dropna().unique().tolist())
