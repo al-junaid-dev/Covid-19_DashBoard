@@ -1,3 +1,4 @@
+2026
 # 🦠 COVID-19 Real-Time Dashboard  
 
 A real-time interactive dashboard built with **Python, Pandas, Plotly, and Streamlit** to track the spread and impact of COVID-19 globally and by country.  
