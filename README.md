@@ -6,6 +6,7 @@ The data is fetched live using the [disease.sh API](https://disease.sh).
 
 ---
 
+
 ## 🚀 Features  
 
 - 🌍 **Global Overview** – Total cases, deaths, recoveries, active cases, and tests  
