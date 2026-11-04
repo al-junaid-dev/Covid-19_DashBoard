@@ -4,7 +4,7 @@
 A real-time interactive dashboard built with **Python, Pandas, Plotly, and Streamlit** to track the spread and impact of COVID-19 globally and by country.  
 The data is fetched live using the [disease.sh API](https://disease.sh).  
 
----
+--
 
 
 ## 🚀 Features  
